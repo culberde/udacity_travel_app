@@ -1,0 +1,10 @@
+@import 'base';
+
+main {
+  grid-area: mn;
+  // background-color: $travel-lightblue;
+  display: grid;
+  grid-template-areas:
+  "dd"
+  "ti"
+}
